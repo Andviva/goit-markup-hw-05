@@ -281,6 +281,7 @@ header {
   display: flex;
 
   bottom: 0px;
+  left: 0;
   width: 100%;
   height: 70px;
   justify-content: center;
